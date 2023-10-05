@@ -1,0 +1,44 @@
+body{
+    background-color: darkviolet;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+h1{
+    width: 90%;
+    text-align: center;
+    line-height: 0%;
+}
+.lbel{
+    width: 90%;
+    text-align: center;
+}
+input{
+    width: 90%;
+    padding: 10px;
+    border-radius: none;
+    border: 1px solid silver;
+}
+button{
+    width: 95%;
+    background-color: darkviolet;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-decoration-break: 1px;
+}
+button:hover{
+    background-color: white;
+    color: darkviolet;
+    cursor: pointer;
+}
+.lbel2{
+    text-align: center;
+}
